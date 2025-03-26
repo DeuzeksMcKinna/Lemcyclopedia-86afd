@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/creacion-de-personaje/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/Creación de Personaje/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
